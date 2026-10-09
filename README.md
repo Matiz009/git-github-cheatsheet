@@ -1,4 +1,13 @@
-#Git and GitHub Tutorials
+# Git and GitHub Cheat Sheet
+
+A quick reference of common Git and GitHub commands, with a one-line explanation of each.
+
+## Features
+
+- Commands for setup, staging, committing, diffs, resetting, logs, tags, branches and remotes
+- The same list as a Word document: `Git and GitHub Commands.docx`
+
+## Commands
 
 1.	git config –global user.name “[name]” ->sets author name
 2.	git config –global user.email “[email address]” ->sets author email id
@@ -35,3 +44,14 @@
 33.	git stash pop ->restores the most recently stashed files.
 34.	git stash list ->lists all stashed changesets.
 35.	git stash drop ->discards the most recently stashed changeset.
+
+## Project structure
+
+```
+README.md                    The command list above
+Git and GitHub Commands.docx Same list as a Word document
+```
+
+## Author
+
+**Mati ul Rehman** - [github.com/Matiz009](https://github.com/Matiz009)
